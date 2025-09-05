@@ -5,6 +5,5 @@
     // Remove from file watching
     "files.watcherExclude": {
       "**/.fvm": true
-    },
-    "dart.flutterSdkPath": "C:\\Users\\rafa_\\Documents\\flutter"
+    }
   }
